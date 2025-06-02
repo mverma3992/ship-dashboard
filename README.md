@@ -1,8 +1,8 @@
-# Ship Maintenance Dashboard – ENTNT Technical Assignment
+# Ship Maintenance Dashboard
 
 ## Overview
 
-A React-based ship maintenance management system built as a frontend solution for ENTNT's technical assessment. This application simulates a complete ship maintenance workflow with no backend dependencies – all data is managed and persisted via localStorage for seamless demonstration.
+A React-based ship maintenance management system built as a frontend solution. This application simulates a complete ship maintenance workflow with no backend dependencies – all data is managed and persisted via localStorage for seamless demonstration.
 
 ## Features
 
@@ -36,9 +36,9 @@ _Requirements: Node.js v14+ and npm_
 
 ## 🔑 Demo Accounts
 
-- Admin: admin@entnt.in / admin123
-- Inspector: inspector@entnt.in / inspect123
-- Engineer: engineer@entnt.in / engine123
+- Admin: admin@test.in / admin123
+- Inspector: inspector@test.in / inspect123
+- Engineer: engineer@test.in / engine123
 
 ## 🧱 Project Structure
 
