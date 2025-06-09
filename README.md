@@ -36,9 +36,9 @@ _Requirements: Node.js v14+ and npm_
 
 ## 🔑 Demo Accounts
 
-- Admin: admin@entnt.in / admin123
-- Inspector: inspector@entnt.in / inspect123
-- Engineer: engineer@entnt.in / engine123
+- Admin: admin@test.in / admin123
+- Inspector: inspector@test.in / inspect123
+- Engineer: engineer@test.in / engine123
 
 ## 🧱 Project Structure
 
