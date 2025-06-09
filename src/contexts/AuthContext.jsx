@@ -5,21 +5,21 @@ import { getFromStorage, saveToStorage, removeFromStorage } from '../utils/local
 const initialUsers = [
   {
     id: '1',
-    email: 'admin@entnt.in',
+    email: 'admin@test.in',
     password: 'admin123',
     role: 'Admin',
     name: 'Admin User'
   },
   {
     id: '2',
-    email: 'inspector@entnt.in',
+    email: 'inspector@test.in',
     password: 'inspect123',
     role: 'Inspector',
     name: 'Inspector User'
   },
   {
     id: '3',
-    email: 'engineer@entnt.in',
+    email: 'engineer@test.in',
     password: 'engine123',
     role: 'Engineer',
     name: 'Engineer User'
