@@ -66,5 +66,5 @@ _Requirements: Node.js v14+ and npm_
 
 ## 📎 Demo Links
 
-- 🔗 Live App: []
-- 🔗 GitHub Repo: []
+- 🔗 Live App: [preeminent-starlight-f1f3b7.netlify.app/]
+- 🔗 GitHub Repo: [https://github.com/mverma3992/ship-dashboard.git]
