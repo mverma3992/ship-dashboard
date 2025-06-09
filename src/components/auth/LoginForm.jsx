@@ -58,7 +58,7 @@ const LoginForm = ({ onSuccess }) => {
             className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
             value={email}
             onChange={(e) => setEmail(e.target.value)}
-            placeholder="email@test.in"
+            placeholder="email@entnt.in"
             required
           />
         </div>
@@ -90,9 +90,9 @@ const LoginForm = ({ onSuccess }) => {
         
         <div className="text-center text-sm text-gray-600">
           <p>Demo Accounts:</p>
-          <p className="mt-1">admin@test.in / admin123</p>
-          <p className="mt-1">inspector@test.in / inspect123</p>
-          <p className="mt-1">engineer@test.in / engine123</p>
+          <p className="mt-1">admin@entnt.in / admin123</p>
+          <p className="mt-1">inspector@entnt.in / inspect123</p>
+          <p className="mt-1">engineer@entnt.in / engine123</p>
         </div>
       </form>
     </div>
